@@ -17,7 +17,7 @@ This project demonstrates building a **Medallion Architecture** (Bronze → Silv
 - **Analytics**: Synapse Serverless SQL with `OPENROWSET`  
 - **Visualization**: Power BI dashboards (trend analysis + filters)  
 
-📊 *(Insert architecture diagram here — e.g., Data Factory → Synapse → Power BI)*  
+📊 
 
 ---
 
