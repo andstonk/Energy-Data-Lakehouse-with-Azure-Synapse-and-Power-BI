@@ -18,7 +18,7 @@ This project demonstrates building a **Medallion Architecture** (Bronze → Silv
 - **Visualization**: Power BI dashboards (trend analysis + filters)  
 
 ## 📊 End-to-end Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](images/Architecture.png)
 
 ---
 
@@ -40,4 +40,4 @@ This project demonstrates building a **Medallion Architecture** (Bronze → Silv
 ---
 
 ## 📊 Sample Dashboard  
-![Power BI Dashboard](energydemandpowerbi.png)
+![Power BI Dashboard](images/EnergyDemand-PowerBI.png)
