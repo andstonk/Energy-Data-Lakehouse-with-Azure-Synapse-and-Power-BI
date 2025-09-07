@@ -17,7 +17,7 @@ This project demonstrates building a **Medallion Architecture** (Bronze → Silv
 - **Analytics**: Synapse Serverless SQL with `OPENROWSET`  
 - **Visualization**: Power BI dashboards (trend analysis + filters)  
 
-📊 
+📊 ![Architecture Diagram](
 
 ---
 
@@ -39,4 +39,4 @@ This project demonstrates building a **Medallion Architecture** (Bronze → Silv
 ---
 
 ## 📊 Sample Dashboard  
-![Power BI Dashboard]
+![Power BI Dashboard](architecture.png)
