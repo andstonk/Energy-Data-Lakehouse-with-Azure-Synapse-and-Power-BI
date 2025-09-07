@@ -39,4 +39,4 @@ This project demonstrates building a **Medallion Architecture** (Bronze → Silv
 ---
 
 ## 📊 Sample Dashboard  
-![Power BI Dashboard](powerbi/dashboard.png)
+![Power BI Dashboard]
